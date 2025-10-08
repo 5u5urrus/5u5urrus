@@ -18,7 +18,7 @@
 
 | **Security Arsenal** | **Description** | **Security Arsenal** | **Description** |
 |:--------------------:|:----------------|:--------------------:|:----------------|
-| **[PathFinder](https://github.com/5u5urrus/PathFinder)** | WebSpidering tool written in Python | **[EDREnum](https://github.com/5u5urrus/EDREnum)** | Detect and enumerate installed EDR solutions |
+| **[PathFinder](https://github.com/5u5urrus/PathFinder)** | WebSpidering tool written in GO | **[EDREnum](https://github.com/5u5urrus/EDREnum)** | Detect and enumerate installed EDR solutions |
 | **[WebScout](https://github.com/5u5urrus/WebScout)** | Efficient tool for scanning live web servers | **[VirtualEye](https://github.com/5u5urrus/VirtualEye)** | Tool to find virtual hosts of IP addresses |
 | **[GitBlast](https://github.com/5u5urrus/GitBlast)** | Automates extensive GitHub searches | **[GitSnipe](https://github.com/5u5urrus/GitSnipe)** | Find GitHub secrets with pinpoint accuracy |
 | **[IkeProbe](https://github.com/5u5urrus/IkeProbe)** | IKE Service Detector using multiple methods | **[HeaderShock](https://github.com/5u5urrus/HeaderShock)** | HTTP header fuzzer with raw socket precision |
