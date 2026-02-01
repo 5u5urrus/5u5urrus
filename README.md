@@ -25,7 +25,7 @@
 | **[403X](https://github.com/5u5urrus/403X)** | Bypass 403/401 restrictions with smart evasion | **[OriginHunt](https://github.com/5u5urrus/OriginHunt)** | Uncover real IPs behind CDN-protected domains |
 | **[NetGazer](https://github.com/5u5urrus/NetGazer)** | Captures screenshots of websites and servers | **[Sanitizer](https://github.com/5u5urrus/Sanitizer)** | Standardize and clean network address inputs |
 | **[EchoTrail](https://github.com/5u5urrus/EchoTrail)** | Extract unique URLs from Wayback Machine | **[BGPulse](https://github.com/5u5urrus/BGPulse)** | Probe BGP implementations for vulnerabilities |
-
+| **[EchoTrail](https://github.com/5u5urrus/DirRanger)** | Enumerate links from exposed directory index pages | | | 
 </div>
 
 ---
