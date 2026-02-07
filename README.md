@@ -26,7 +26,7 @@
 | **[NetGazer](https://github.com/5u5urrus/NetGazer)** | Captures screenshots of websites and servers | **[Sanitizer](https://github.com/5u5urrus/Sanitizer)** | Standardize and clean network address inputs |
 | **[EchoTrail](https://github.com/5u5urrus/EchoTrail)** | Extract unique URLs from Wayback Machine | **[BGPulse](https://github.com/5u5urrus/BGPulse)** | Probe BGP implementations for vulnerabilities |
 | **[DirRanger](https://github.com/5u5urrus/DirRanger)** | Enumerate links from exposed directory index pages | **[SubHunt](https://github.com/5u5urrus/SubHunt)** | Clean and fast subdomain finder | 
-| **[Porter](https://github.com/5u5urrus/Porter)** | Very fast, effective, and clean port scanner | | | 
+| **[Porter](https://github.com/5u5urrus/Porter)** | Very fast, effective, and clean port scanner | **[Fuzz](https://github.com/5u5urrus/Fuzz)** | Super clean, effective, and cool HTTP fuzzer | 
 </div>
 
 ---
